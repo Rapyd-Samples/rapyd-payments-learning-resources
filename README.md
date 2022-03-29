@@ -1,3 +1,5 @@
+![Rapyd Payments](https://github.com/Rapyd-Samples/learning-resources/blob/main/gitjhub-logo%402x.png)
+
 # learning-resources
 #### A collection of tools and resources to help you get started with the Rapyd API. 
 
