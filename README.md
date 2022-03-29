@@ -3,7 +3,8 @@
 
 * [API Reference](https://docs.rapyd.net/build-with-rapyd/reference/api-reference)
 * [Docs](https://docs.rapyd.net/build-with-rapyd/docs)
-* [Explore Community](https://community.rapyd.net)
+* [Community Forums](https://community.rapyd.net)
+* [Discord Server](https://discord.rapyd.com)
 * [YouTube Tutorials](https://www.youtube.com/channel/UCzqD46wVaSACHkUcB3eCjLg)
 
 # get-support 
