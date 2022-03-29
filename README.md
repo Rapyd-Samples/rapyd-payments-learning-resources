@@ -1,4 +1,6 @@
-![Rapyd Payments](https://github.com/Rapyd-Samples/learning-resources/blob/main/gitjhub-logo%402x.png)
+![Github Light](https://github.com/Rapyd-Samples/learning-resources/blob/main/gitjhub-logo-dk%402x.png#gh-light-mode-only)
+![Github Dark](https://github.com/Rapyd-Samples/learning-resources/blob/main/gitjhub-logo-light%402x.png#gh-dark-mode-only)
+
 
 # learning-resources
 #### A collection of tools and resources to help you get started with the Rapyd API. 
