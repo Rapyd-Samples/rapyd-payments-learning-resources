@@ -4,7 +4,7 @@
 # Events
 #### Join Rapyd's Million Dollar – Greatest Fintech Developer Series: Build the Galaxy's Best Checkout
 
-* [Join Hackathon](https://hackthegalaxy.devpost.com/)
+* [Join Hackathon](https://hackthegalaxy.devpost.com/) [21 APR - 26 MAY]
 
 # learning-resources
 #### A collection of tools and resources to help you get started with the Rapyd API. 
