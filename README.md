@@ -15,6 +15,11 @@
 * [Discord Server](https://discord.rapyd.com)
 * [YouTube Tutorials](https://www.youtube.com/channel/UCzqD46wVaSACHkUcB3eCjLg)
 
+# Other Code Samples
+#### A list of repos that other developers have created using the Rapyd API 
+
+* [Rapyd Checkout Example](https://github.com/amacgregor/rapyd_checkout_example)
+
 # get-support 
 #### Please do no use these support resources for critical or production issues. Go to https://support.rapyd.net 
 
