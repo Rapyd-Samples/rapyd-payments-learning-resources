@@ -2,9 +2,14 @@
 ![Github Dark](https://github.com/Rapyd-Samples/learning-resources/blob/main/gitjhub-logo-light%402x.png#gh-dark-mode-only)
 
 # Events
-#### Join Rapyd's Million Dollar – Greatest Fintech Developer Series: Build the Galaxy's Best Checkout
+#### Join Rapyd's Million Dollar – Greatest Fintech Developer Series: 
+* Build the Galaxy's Best Checkout [Join Hackathon](https://hackthegalaxy.devpost.com/) [21 APR - 26 MAY] ENDED
 
-* [Join Hackathon](https://hackthegalaxy.devpost.com/) [21 APR - 26 MAY]
+#### Hack the Galaxy 🪐
+* Join the Galaxy's Greatest Contest for Developers and Win Tickets to the Edge of Space [Solve Today's Puzzle](https://community.rapyd.net) [JUN -OCT] 
+
+[![Watch the video]()](https://youtu.be/wNUJ2GBjMkk)
+
 
 # learning-resources
 #### A collection of tools and resources to help you get started with the Rapyd API. 
