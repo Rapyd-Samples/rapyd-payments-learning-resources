@@ -26,6 +26,7 @@
 # other-code-samples-friends-of-rapyd
 #### A list of repos that other developers have created using the Rapyd API 
 
+* [Rapyd Flutter SKk](https://github.com/sbis04/rapyd_sdk_flutter?ref=flutterawesome.com)
 * [Rapyd Checkout Example](https://github.com/amacgregor/rapyd_checkout_example)
 
 # get-support 
@@ -33,4 +34,4 @@
 
 * send us an [email](mailto:community@rapyd.net)
 * post a topic in [forums](https://community.rapyd.net)
-* on Twitter at [@rapydpayment](https://twitter.com/RapydPayments)
+* on Twitter at [@RapydDevs](https://twitter.com/RapydDevs)
