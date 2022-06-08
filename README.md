@@ -4,6 +4,9 @@
 # Events
 #### Join Rapyd's Million Dollar – Greatest Fintech Developer Series: 
 * Build the Galaxy's Best Checkout [Join Hackathon](https://hackthegalaxy.devpost.com/) [21 APR - 26 MAY] ENDED
+* Build the Galaxy's Best ******** [Join Hackathon](https://hackthegalaxy.devpost.com/) [09 JUN - 21 JUL]
+* Build the Galaxy's Best ******** [Join Hackathon](https://hackthegalaxy.devpost.com/) Coming Soon
+* Build the Galaxy's Best ******** [Join Hackathon](https://hackthegalaxy.devpost.com/) Coming Soon
 
 #### Hack the Galaxy 🪐
 * Join the Galaxy's Greatest Contest for Developers and Win Tickets to the Edge of Space [Solve Today's Puzzle](https://community.rapyd.net) [JUN -OCT] 
