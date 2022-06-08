@@ -8,7 +8,7 @@
 #### Hack the Galaxy 🪐
 * Join the Galaxy's Greatest Contest for Developers and Win Tickets to the Edge of Space [Solve Today's Puzzle](https://community.rapyd.net) [JUN -OCT] 
 
-[![Watch the video]()](https://youtu.be/wNUJ2GBjMkk)
+[![Watch the video](https://github.com/Rapyd-Samples/learning-resources/blob/main/Screen%20Shot%202022-06-07%20at%208.31.32%20PM.png)](https://youtu.be/wNUJ2GBjMkk)
 
 
 # learning-resources
