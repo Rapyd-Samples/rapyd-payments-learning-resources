@@ -23,7 +23,7 @@
 * [Discord Server](https://discord.rapyd.com)
 * [YouTube Tutorials](https://www.youtube.com/channel/UCzqD46wVaSACHkUcB3eCjLg)
 
-# Other Code Samples
+# other-code-samples-friends-of-rapyd
 #### A list of repos that other developers have created using the Rapyd API 
 
 * [Rapyd Checkout Example](https://github.com/amacgregor/rapyd_checkout_example)
