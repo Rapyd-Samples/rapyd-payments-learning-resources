@@ -1,7 +1,7 @@
 ![Github Light](https://github.com/Rapyd-Samples/learning-resources/blob/main/gitjhub-logo-dk%402x.png#gh-light-mode-only)
 ![Github Dark](https://github.com/Rapyd-Samples/learning-resources/blob/main/gitjhub-logo-light%402x.png#gh-dark-mode-only)
 
-# Events
+# rapyd-events
 #### Join Rapyd's Million Dollar – Greatest Fintech Developer Series
 * Build the Galaxy's Best Checkout [Join Hackathon](https://hackthegalaxy.devpost.com/) [21 APR - 26 MAY] ENDED
 * Build the Galaxy's Best ********* [Join Hackathon](https://hackthegalaxy.devpost.com/) [09 JUN - 21 JUL]
