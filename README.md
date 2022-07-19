@@ -11,6 +11,7 @@
 #### Join Rapyd at these Developer Conferences in Europe 
 * ~~[14 - 15 JUN] [WeAreDevelopers World Congress 2022](https://www.wearedevelopers.com/world-congress)~~  
 * [19 - 20 SEP] [Infobip Shift 2022](https://shift.infobip.com/) 
+* [01 - 04 NOV] [WebSummit](https://websummit.com/)
 
 #### Hack the Galaxy 🪐
 * [JUN -OCT] Join the Galaxy's Greatest Contest for Developers and Win Tickets to the Edge of Space [Solve Today's Puzzle](https://community.rapyd.net) 
