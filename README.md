@@ -9,13 +9,13 @@
 * Build the Galaxy's Best ********* [Join Hackathon](https://hackthegalaxy.devpost.com/) Coming Soon
 
 #### Join Rapyd at these Developer Conferences in Europe 
-* Look for Hack the Galaxy! [WeAreDevelopers World Congress 2022](https://www.wearedevelopers.com/world-congress) [14 - 15 JUN] 
+* [14 - 15 JUN] [WeAreDevelopers World Congress 2022](https://www.wearedevelopers.com/world-congress)  
+* [19 - 20 SEP] [Infobip Shift 2022](https://shift.infobip.com/) 
 
 #### Hack the Galaxy 🪐
-* Join the Galaxy's Greatest Contest for Developers and Win Tickets to the Edge of Space [Solve Today's Puzzle](https://community.rapyd.net) [JUN -OCT] 
+* [JUN -OCT] Join the Galaxy's Greatest Contest for Developers and Win Tickets to the Edge of Space [Solve Today's Puzzle](https://community.rapyd.net) 
 
 [![Watch the video](https://github.com/Rapyd-Samples/learning-resources/blob/main/Screen%20Shot%202022-06-07%20at%208.31.32%20PM.png)](https://youtu.be/wNUJ2GBjMkk)
-
 
 # learning-resources
 #### A collection of tools and resources to help you get started with the Rapyd API. 
