@@ -33,6 +33,9 @@
 * [Rapyd Flutter SDK](https://github.com/sbis04/rapyd_sdk_flutter?ref=flutterawesome.com)
 * [Rapyd Checkout Example](https://github.com/amacgregor/rapyd_checkout_example)
 * [PHP Payment Gateway Using Rapyd](https://github.com/Samuel-2626/php-payment-gateway-using-rapyd)
+* [Unofficial Rapyd JS SDK](https://github.com/domingosl/rapyd-node-sdk)
+* [A Flutter app to demo how to use Rapyd Collect API for payment collection](https://github.com/rexfordnyrk/donation)
+
 
 # get-support 
 #### Please do no use these support resources for critical or production issues. Go to https://support.rapyd.net 
