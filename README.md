@@ -38,7 +38,7 @@
 
 
 # get-support 
-#### Please do no use these support resources for critical or production issues. Go to https://support.rapyd.net 
+#### Please do no use these support resources for critical or production issues. Go to https://support.rapyd.net or if you can't access then please send an email to support@rapyd.net
 
 * send us an [email](mailto:community@rapyd.net)
 * post a topic in [forums](https://community.rapyd.net)
