@@ -5,8 +5,8 @@
 #### Join Rapyd's Million Dollar – Greatest Fintech Developer Series
 * ~~[21 APR - 26 MAY] Build the Galaxy's Best Checkout [Join Hackathon](https://hackthegalaxy.devpost.com/)~~
 * ~~[09 JUN - 21 JUL] Build the Galaxy's Best Space App using Virtual Accounts [Join Hackathon](https://htg2.devpost.com/)~~ 
-* [Coming Soon] Build the Galaxy's Best ********* [Join Hackathon](https://hackthegalaxy.devpost.com/) 
-* [Coming Soon] Build the Galaxy's Best ********* [Join Hackathon](https://hackthegalaxy.devpost.com/) 
+* [11 AUG - 15 SEP] Build the Best Super App [Join Hackathon](https://htg3.devpost.com/) 
+* [Coming Soon!] 
 
 #### Join Rapyd at these Developer Conferences in Europe 
 * ~~[14 - 15 JUN] [WeAreDevelopers World Congress 2022](https://www.wearedevelopers.com/world-congress)~~  
