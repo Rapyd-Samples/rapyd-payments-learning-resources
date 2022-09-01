@@ -2,13 +2,13 @@
 ![Github Dark](https://github.com/Rapyd-Samples/learning-resources/blob/main/gitjhub-logo-light%402x.png#gh-dark-mode-only)
 
 # rapyd-events
-#### Join Rapyd's Million Dollar – Greatest Fintech Developer Series
+#### Hackathons 2022
 * ~~[21 APR - 26 MAY] Build the Galaxy's Best Checkout [Join Hackathon](https://hackthegalaxy.devpost.com/)~~
 * ~~[09 JUN - 21 JUL] Build the Galaxy's Best Space App using Virtual Accounts [Join Hackathon](https://htg2.devpost.com/)~~ 
 * [11 AUG - 15 SEP] Build the Best Super App [Join Hackathon](https://htg3.devpost.com/) 
 * [Coming Soon!] 
 
-#### Join Rapyd at these Developer Conferences in Europe 
+#### Developer Conferences in Europe 2022
 * ~~[14 - 15 JUN] [WeAreDevelopers World Congress 2022](https://www.wearedevelopers.com/world-congress)~~  
 * [19 - 20 SEP] [Infobip Shift 2022](https://shift.infobip.com/) 
 * [01 - 04 NOV] [WebSummit](https://websummit.com/)
