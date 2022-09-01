@@ -40,6 +40,8 @@
 # get-help 
 #### Please do no use these resources below for critical or production issues. Go to https://support.rapyd.net or if you can't access then please send an email to support@rapyd.net
 
+But if you have API questions or want to learn more about transacting in the Sandbox environment 👇🏼
+
 * send us an [email](mailto:community@rapyd.net)
 * post a topic in [forums](https://community.rapyd.net)
 * on Twitter at [@RapydDevs](https://twitter.com/RapydDevs)
