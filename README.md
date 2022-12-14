@@ -45,6 +45,6 @@ If you have API questions or want to learn more about transacting in the Sandbox
 * on Twitter at [@RapydDevs](https://twitter.com/RapydDevs)
 * on [Discord](https://discord.com/invite/Sq38qzcYHv)
 
-# Partner with Rapyd
+# become-a-partner
 
 * [Learn more](https://www.rapyd.net/company/partners/)
