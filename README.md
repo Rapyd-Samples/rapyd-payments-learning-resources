@@ -1,6 +1,15 @@
 ![Github Light](https://github.com/Rapyd-Samples/learning-resources/blob/main/gitjhub-logo-dk%402x.png#gh-light-mode-only)
 ![Github Dark](https://github.com/Rapyd-Samples/learning-resources/blob/main/gitjhub-logo-light%402x.png#gh-dark-mode-only)
 
+# learning-resources
+#### A collection of tools and resources to help you get started with the Rapyd API. 
+
+* [API Reference](https://docs.rapyd.net/build-with-rapyd/reference/api-reference)
+* [Docs](https://docs.rapyd.net/build-with-rapyd/docs)
+* [Community Forums](https://community.rapyd.net)
+* [Discord Server](https://discord.rapyd.com)
+* [YouTube Tutorials](https://www.youtube.com/channel/UCzqD46wVaSACHkUcB3eCjLg)
+
 # rapyd-events
 #### Hackathons 2022
 * ~~[21 APR - 26 MAY] Build the Galaxy's Best Checkout [Join Hackathon](https://hackthegalaxy.devpost.com/)~~
@@ -15,15 +24,6 @@
 
 #### Hack the Galaxy 🪐 [EVENT HAS ENDED]
 * ~~[JUN -OCT] Join the Galaxy's Greatest Contest for Developers and Win Tickets to the Edge of Space [Solve Today's Puzzle](https://community.rapyd.net)~~ 
-
-# learning-resources
-#### A collection of tools and resources to help you get started with the Rapyd API. 
-
-* [API Reference](https://docs.rapyd.net/build-with-rapyd/reference/api-reference)
-* [Docs](https://docs.rapyd.net/build-with-rapyd/docs)
-* [Community Forums](https://community.rapyd.net)
-* [Discord Server](https://discord.rapyd.com)
-* [YouTube Tutorials](https://www.youtube.com/channel/UCzqD46wVaSACHkUcB3eCjLg)
 
 # other-code-samples-friends-of-rapyd
 #### A list of repos that other developers have created using the Rapyd API. 
