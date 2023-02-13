@@ -1,6 +1,7 @@
 ![Github Light](https://github.com/Rapyd-Samples/learning-resources/blob/main/gitjhub-logo-dk%402x.png#gh-light-mode-only)
 ![Github Dark](https://github.com/Rapyd-Samples/learning-resources/blob/main/gitjhub-logo-light%402x.png#gh-dark-mode-only)
 
+![Discord Shield](https://discordapp.com/api/guilds/[930903327024238622]/widget.png?style=shield)
 
 # learning-resources
 #### A collection of tools and resources to help you get started with the Rapyd API. 
