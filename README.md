@@ -7,6 +7,7 @@
 # learning-resources
 #### A collection of tools and resources to help you get started with the Rapyd API. 
 
+* [API Keys](https://dashboard.rapyd.net/sign-up)
 * [API Reference](https://docs.rapyd.net/build-with-rapyd/reference/api-reference)
 * [Docs](https://docs.rapyd.net/build-with-rapyd/docs)
 * [Community Forums](https://community.rapyd.net)
