@@ -12,7 +12,8 @@
 * [Community Forums](https://community.rapyd.net)
 * [Discord Server](https://discord.rapyd.com)
 * [YouTube Tutorials](https://www.youtube.com/channel/UCzqD46wVaSACHkUcB3eCjLg)
-* [Newsletter](https://go.rapyd.net/dev-newsletter)
+* [Newsletter Signup](https://go.rapyd.net/dev-newsletter)
+* [Newsletter => dev.to](https://dev.to/rapyd/rapyd-developer-newsletter-february-2023-1goo)
 
 # rapyd-events
 #### Hackathons 2022
