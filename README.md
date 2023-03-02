@@ -13,7 +13,7 @@
 * [Discord Server](https://discord.rapyd.com)
 * [YouTube Tutorials](https://www.youtube.com/channel/UCzqD46wVaSACHkUcB3eCjLg)
 * [Newsletter Signup](https://go.rapyd.net/dev-newsletter)
-* [Newsletter => dev.to](https://dev.to/rapyd/rapyd-developer-newsletter-february-2023-1goo)
+* [Newsletter on dev.to](https://dev.to/rapyd/rapyd-developer-newsletter-february-2023-1goo)
 
 # rapyd-events
 #### Hackathons 2022
@@ -21,14 +21,6 @@
 * ~~[09 JUN - 21 JUL] Build the Galaxy's Best Space App using Virtual Accounts [Join Hackathon](https://htg2.devpost.com/)~~ 
 * ~~[11 AUG - 15 SEP] Build the Best Super App [Join Hackathon](https://htg3.devpost.com/)~~ 
 * ~~[01 OCT - 08 DEC] Build a Climate Fintech App [Join Hackathon](https://rapyd.hackerearth.com/)~~
-
-#### Developer Conferences in Europe 2022
-* ~~[14 - 15 JUN] [WeAreDevelopers World Congress 2022](https://www.wearedevelopers.com/world-congress)~~  
-* ~~[19 - 20 SEP] [Infobip Shift 2022](https://shift.infobip.com/)~~ 
-* ~~[01 - 04 NOV] [Summit Lisbon]~~
-
-#### Hack the Galaxy 🪐 [EVENT HAS ENDED]
-* ~~[JUN -OCT] Join the Galaxy's Greatest Contest for Developers and Win Tickets to the Edge of Space [Solve Today's Puzzle](https://community.rapyd.net)~~ 
 
 # other-code-samples-friends-of-rapyd
 #### A list of repos that other developers have created using the Rapyd API. 
@@ -53,3 +45,8 @@ If you have API questions or want to learn more about transacting in the Sandbox
 # become-a-partner
 
 * [Learn more](https://www.rapyd.net/company/partners/)
+
+#### Developer Conferences in Europe 2022
+* ~~[14 - 15 JUN] [WeAreDevelopers World Congress 2022](https://www.wearedevelopers.com/world-congress)~~  
+* ~~[19 - 20 SEP] [Infobip Shift 2022](https://shift.infobip.com/)~~ 
+* ~~[01 - 04 NOV] [Summit Lisbon]~~
