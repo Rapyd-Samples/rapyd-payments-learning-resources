@@ -16,13 +16,6 @@
 * [Newsletter Signup](https://go.rapyd.net/dev-newsletter)
 * [Newsletter on dev.to](https://dev.to/rapyd/rapyd-developer-newsletter-february-2023-1goo)
 
-# rapyd-events
-#### Hackathons 2022
-* ~~[21 APR - 26 MAY] Build the Galaxy's Best Checkout [Join Hackathon](https://hackthegalaxy.devpost.com/)~~
-* ~~[09 JUN - 21 JUL] Build the Galaxy's Best Space App using Virtual Accounts [Join Hackathon](https://htg2.devpost.com/)~~ 
-* ~~[11 AUG - 15 SEP] Build the Best Super App [Join Hackathon](https://htg3.devpost.com/)~~ 
-* ~~[01 OCT - 08 DEC] Build a Climate Fintech App [Join Hackathon](https://rapyd.hackerearth.com/)~~
-
 # other-code-samples-friends-of-rapyd
 #### A list of repos that other developers have created using the Rapyd API. 
 
@@ -31,7 +24,6 @@
 * [PHP Payment Gateway Using Rapyd](https://github.com/Samuel-2626/php-payment-gateway-using-rapyd)
 * [Unofficial Rapyd JS SDK](https://github.com/domingosl/rapyd-node-sdk)
 * [A Flutter app to demo how to use Rapyd Collect API for payment collection](https://github.com/rexfordnyrk/donation)
-
 
 # get-help 
 #### PLEASE DO NOT USE THE RESOURCES BELOW FOR CRITICAL OR PRODUCTION ISSUES. Go to https://support.rapyd.net or if you can't access then please send an email to support@rapyd.net.
@@ -47,7 +39,14 @@ If you have API questions or want to learn more about transacting in the Sandbox
 
 * [Learn more](https://www.rapyd.net/company/partners/)
 
-#### Developer Conferences in Europe 2022
+# rapyd-events
+#### Hackathons 2022 [Archive]
+* ~~[21 APR - 26 MAY] Build the Galaxy's Best Checkout [Join Hackathon](https://hackthegalaxy.devpost.com/)~~
+* ~~[09 JUN - 21 JUL] Build the Galaxy's Best Space App using Virtual Accounts [Join Hackathon](https://htg2.devpost.com/)~~ 
+* ~~[11 AUG - 15 SEP] Build the Best Super App [Join Hackathon](https://htg3.devpost.com/)~~ 
+* ~~[01 OCT - 08 DEC] Build a Climate Fintech App [Join Hackathon](https://rapyd.hackerearth.com/)~~
+
+#### Developer Conferences in Europe 2022 [Archive]
 * ~~[14 - 15 JUN] [WeAreDevelopers World Congress 2022](https://www.wearedevelopers.com/world-congress)~~  
 * ~~[19 - 20 SEP] [Infobip Shift 2022](https://shift.infobip.com/)~~ 
 * ~~[01 - 04 NOV] [Summit Lisbon]~~
