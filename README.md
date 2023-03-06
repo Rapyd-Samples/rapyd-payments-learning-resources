@@ -15,8 +15,9 @@
 * [YouTube Tutorials](https://www.youtube.com/channel/UCzqD46wVaSACHkUcB3eCjLg)
 * [Newsletter Signup](https://go.rapyd.net/dev-newsletter)
 * [Newsletter on dev.to](https://dev.to/rapyd/rapyd-developer-newsletter-february-2023-1goo)
+* [Become a Rapyd Developer Partner](https://www.rapyd.net/company/partners/developer-partner-program/)
 
-# other-code-samples-friends-of-rapyd
+# other-code-samples-from-friends-of-rapyd
 #### A list of repos that other developers have created using the Rapyd API. 
 
 * [Rapyd Flutter SDK](https://github.com/sbis04/rapyd_sdk_flutter?ref=flutterawesome.com)
@@ -34,10 +35,6 @@ If you have API questions or want to learn more about transacting in the Sandbox
 * post a topic in [forums](https://community.rapyd.net)
 * on Twitter at [@RapydDevs](https://twitter.com/RapydDevs)
 * on [Discord](https://discord.com/invite/Sq38qzcYHv)
-
-# become-a-partner
-
-* [Learn more](https://www.rapyd.net/company/partners/)
 
 # rapyd-events
 #### Hackathons 2022 [Archive]
