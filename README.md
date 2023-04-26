@@ -20,7 +20,7 @@
 * [Discord Server](https://discord.rapyd.com)
 * [YouTube Tutorials](https://www.youtube.com/channel/UCzqD46wVaSACHkUcB3eCjLg)
 * [Newsletter Signup](https://go.rapyd.net/dev-newsletter)
-* [Newsletter on dev.to](https://dev.to/rapyd/rapyd-developer-newsletter-february-2023-1goo)
+* [Newsletter on dev.to](https://dev.to/rapyd)
 * [Become a Rapyd Developer Partner](https://www.rapyd.net/company/partners/developer-partner-program/)
 
 # other-code-samples-from-friends-of-rapyd
