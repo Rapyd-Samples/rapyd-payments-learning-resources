@@ -5,8 +5,9 @@
 ![Twitter Follow](https://img.shields.io/twitter/follow/rapyddevs?style=social)
 
 # rapyd-gatherings
-#### Frontend Meetup Amsterdam - 20 June, 2023 
-* [The Recipe for Revenue: Make Money with Software](https://www.meetup.com/frontend-developer-meetup-amsterdam/events/292529243/) by Tiki Lobel - R&D Team Lead / Pedro Meyer - Sr. Sales Manager at Rapyd
+#### Developer Conferences in Europe 2023
+* ~~[20 JUN] [Frontend Meetup Amsterdam](https://www.meetup.com/frontend-developer-meetup-amsterdam/events/292529243/)~~ 
+* [27 July] [We Are Developers - Berlin](https://www.wearedevelopers.com/world-congress/)
 
 
 # learning-resources
