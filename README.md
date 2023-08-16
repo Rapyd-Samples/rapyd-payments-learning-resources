@@ -10,7 +10,7 @@
 # rapyd-gatherings
 #### Developer Conferences in Europe 2023
 * ~~[20 JUN] [Frontend Meetup Amsterdam](https://www.meetup.com/frontend-developer-meetup-amsterdam/events/292529243/)~~ 
-* [27 July] [We Are Developers - Berlin](https://www.wearedevelopers.com/world-congress/)
+* ~~[27 July] [We Are Developers - Berlin](https://www.wearedevelopers.com/world-congress/)~~
 
 
 # learning-resources
