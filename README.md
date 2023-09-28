@@ -27,6 +27,8 @@
 * [Newsletter on dev.to](https://dev.to/rapyd)
 * [Become a Rapyd Developer Partner](https://www.rapyd.net/company/partners/developer-partner-program/)
 
+* **NEW** [OpenAPI SPec](https://www.postman.com/rapyd-dev)
+
 # other-code-samples-from-friends-of-rapyd
 #### A list of repos that other developers have created using the Rapyd API. 
 
