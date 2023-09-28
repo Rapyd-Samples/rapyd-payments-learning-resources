@@ -27,10 +27,10 @@
 * [Newsletter on dev.to](https://dev.to/rapyd)
 * [Become a Rapyd Developer Partner](https://www.rapyd.net/company/partners/developer-partner-program/)
 
-* **NEW** [OpenAPI SPec](https://www.postman.com/rapyd-dev)
+* **NEW** [OpenAPI Spec](https://www.postman.com/rapyd-dev)
 
 # other-code-samples-from-friends-of-rapyd
-#### A list of repos that other developers have created using the Rapyd API. 
+#### A list of repos other developers have created using the Rapyd API. 
 
 * [Rapyd Flutter SDK](https://github.com/sbis04/rapyd_sdk_flutter?ref=flutterawesome.com)
 * [Rapyd Checkout Example](https://github.com/amacgregor/rapyd_checkout_example)
