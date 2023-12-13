@@ -2,15 +2,7 @@
 ![Github Dark](https://github.com/Rapyd-Samples/learning-resources/blob/main/gitjhub-logo-light%402x.png#gh-dark-mode-only)
 
 <img alt="Discourse users" src="https://img.shields.io/discourse/users?server=https%3A%2F%2Fcommunity.rapyd.net"> ![Discord](https://img.shields.io/discord/930903327024238622) <br>
-![Twitter Follow](https://img.shields.io/twitter/follow/rapyddevs?style=social) ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCzqD46wVaSACHkUcB3eCjLg) <br> ![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/RapydDevs)
-
-
-
-
-# rapyd-gatherings
-#### Developer Conferences in Europe 2023
-* ~~[20 JUN] [Frontend Meetup Amsterdam](https://www.meetup.com/frontend-developer-meetup-amsterdam/events/292529243/)~~ 
-* ~~[27 July] [We Are Developers - Berlin](https://www.wearedevelopers.com/world-congress/)~~
+![Twitter Follow](https://img.shields.io/twitter/follow/rapyddevs?style=social) ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCzqD46wVaSACHkUcB3eCjLg) <br>
 
 
 # learning-resources
@@ -48,7 +40,12 @@ If you have API questions or want to learn more about transacting in the Sandbox
 * on Twitter at [@RapydDevs](https://twitter.com/RapydDevs)
 * on [Discord](https://discord.com/invite/Sq38qzcYHv)
 
-# rapyd-events
+# rapyd-events-gatherings
+
+#### Developer Conferences in Europe 2023 [Archive]
+* ~~[20 JUN] [Frontend Meetup Amsterdam](https://www.meetup.com/frontend-developer-meetup-amsterdam/events/292529243/)~~ 
+* ~~[27 July] [We Are Developers - Berlin](https://www.wearedevelopers.com/world-congress/)~~
+* 
 #### Hackathons 2022 [Archive]
 * ~~[21 APR - 26 MAY] Build the Galaxy's Best Checkout [Join Hackathon](https://hackthegalaxy.devpost.com/)~~
 * ~~[09 JUN - 21 JUL] Build the Galaxy's Best Space App using Virtual Accounts [Join Hackathon](https://htg2.devpost.com/)~~ 
